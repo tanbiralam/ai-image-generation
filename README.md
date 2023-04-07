@@ -28,7 +28,7 @@ Technologies Used
 
 -ExpressJS
 
-Live Preview: https://dalle-clone-2-0.netlify.app/
+Live Preview: https://open-ai-image-generate.netlify.app/
 
 
 ![image](https://user-images.githubusercontent.com/57638199/230628485-0ac3caf7-7a51-445c-988d-155cdeb9e4a6.png)
