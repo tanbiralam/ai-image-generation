@@ -1,6 +1,6 @@
 # AI Image Generation Clone App
 
-Welcome to the AI Image Generation Clone App repository! This application allows users to generate realistic images using OpenAI's GPT-3 API. Built as a Full Stack MERN (MongoDB, Express.js, React, Node.js) application, this project provides a seamless and interactive experience for users interested in exploring the capabilities of AI image generation.
+Welcome to the AI Image Generation Clone App repository! This application allows users to generate realistic images using OpenAI's GPT-3 API. Built as a full-stack MERN (MongoDB, Express.js, React, Node.js) application, this project provides a seamless and interactive experience for users interested in exploring the capabilities of AI image generation.
 
 ## Table of Contents
 
@@ -9,7 +9,6 @@ Welcome to the AI Image Generation Clone App repository! This application allows
   - [Technologies Used](#technologies-used)
   - [Live Preview](#live-preview)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
@@ -38,7 +37,7 @@ Explore the app live at [https://open-ai-image-generate.netlify.app/](https://op
 1. **Clone the repository:**
 
    ````bash
-   git clone https://github.com/tanbiralam/open-ai-image-generation.git```
+   git clone [https://github.com/tanbiralam/open-ai-image-generation.git](https://github.com/tanbiralam/ai-image-generation.git)```
 
    ````
 
@@ -69,7 +68,7 @@ Explore the app live at [https://open-ai-image-generate.netlify.app/](https://op
    npm start```
    ````
 
-##License
+### License
 
 This project is licensed under the MIT License, allowing for both personal and commercial use.
 
